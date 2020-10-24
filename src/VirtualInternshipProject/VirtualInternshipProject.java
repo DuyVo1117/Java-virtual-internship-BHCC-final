@@ -47,6 +47,7 @@ import javafx.stage.Stage;
  * @author zhihanlin
  * @author Duy Vo
  * @author Dante barton
+ *
  */
 public class VirtualInternshipProject extends Application {
 
