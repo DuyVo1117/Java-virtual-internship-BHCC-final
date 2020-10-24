@@ -47,7 +47,6 @@ import javafx.stage.Stage;
  * @author zhihanlin
  * @author Duy Vo
  * @author Dante barton
- *
  */
 public class VirtualInternshipProject extends Application {
 
@@ -60,11 +59,6 @@ public class VirtualInternshipProject extends Application {
 
     /**
      * nodes for login and register
-     * 
-     * 
-     * 
-     * 
-     * 
      */
     Label lblUserName;
     Label lblPassWord;
