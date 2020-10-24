@@ -60,6 +60,7 @@ public class VirtualInternshipProject extends Application {
 
     /**
      * nodes for login and register
+     * 
      */
     Label lblUserName;
     Label lblPassWord;
