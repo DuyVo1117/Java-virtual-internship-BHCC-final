@@ -8,7 +8,7 @@ Practera project is the program that creating some feature for the website
 
   1. Login interface
   2. Save Username and Password 
-  3. Resourse tab
+  3. Resources tab
   4. Badges earned tab
   5. Project participation demo badge
   6. collaboration and Teamwork Badge
@@ -27,9 +27,9 @@ Practera project is the program that creating some feature for the website
 
   1. Login Interface will appear 
   2. Register for the first time user
-  3. When you login succesfully, Badges Earned and Resourse tab will available for user
+  3. When you login succesfully, Badges Earned and Resources tab will available for user
   4. The badges Earned tab will show the badge name and information
-  5. Click to the Resourse button to discover more about what/where/how to get badges  
+  5. Click to the Resources button to discover more about what/where/how to get badges  
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
