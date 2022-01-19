@@ -14,7 +14,7 @@ Practera project is the program that creating some feature for the website
   6. collaboration and Teamwork Badge
   
  
-  <img src="image/Campus Network result.png" width = 50% >
+  <img src="image/Badges.png" width = 50% >
 
 ## Getting Started
 
