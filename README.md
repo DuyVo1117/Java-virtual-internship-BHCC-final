@@ -6,9 +6,13 @@ Practera project is the program that creating some feature for the website
 
 ## Features
 
-  1. Badges earned tab
-  2. Project participation demo badge
-  3. collaboration and Teamwork Badge
+  1. Login interface
+  2. Save Username and Password 
+  3. Resourse tab
+  4. Badges earned tab
+  5. Project participation demo badge
+  6. collaboration and Teamwork Badge
+  
  
   <img src="image/Campus Network result.png" width = 50% >
 
