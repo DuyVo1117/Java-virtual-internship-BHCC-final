@@ -4,6 +4,8 @@
 
 Practera project is the program that creating some feature for the website 
 
+<img src="Image/Login.png" width = 30% > <img src="Image/Badges.png" width = 30% > <img src="Image/Resources.png" width = 30% >
+
 ## Features
 
   1. Login interface
@@ -13,9 +15,6 @@ Practera project is the program that creating some feature for the website
   5. Project participation demo badge
   6. collaboration and Teamwork Badge
   
- 
-  <img src="Image/Badges.png" width = 30% > <img src="Image/Login.png" width = 30% > <img src="Image/Resources.png" width = 30% >
-
 ## Getting Started
 
 ### Installation and setup
